@@ -1,9 +1,9 @@
 pipeline{
     agent any
     stages{
-        stage("A"){
+        stage("echooo"){
             steps{
-                echo "========executing A========"
+                echo  'i am riyaa'
             }
             
         }
